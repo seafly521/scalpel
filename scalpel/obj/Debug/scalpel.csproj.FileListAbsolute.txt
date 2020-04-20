@@ -1,0 +1,9 @@
+E:\Coding\wg\scalpel\scalpel\bin\Debug\scalpel.exe
+E:\Coding\wg\scalpel\scalpel\bin\Debug\scalpel.pdb
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.csprojAssemblyReference.cache
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.Form1.resources
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.Properties.Resources.resources
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.csproj.GenerateResource.cache
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.csproj.CoreCompileInputs.cache
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.exe
+E:\Coding\wg\scalpel\scalpel\obj\Debug\scalpel.pdb
